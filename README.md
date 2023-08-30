@@ -1,39 +1,26 @@
-<h1 align="center">Hi 👋, I'm Shriya Pandey</h1>
-<h3 color="blue">About Me: </h3>
-<p class="empty"><em>Highly skilled Full Stack Web Developer
-proficient in MERN stack. Completed 1200+
-hours of Full Stack Web Development course
-at Masai school, gaining hands-on experience
-in building dynamic projects using HTML,
-CSS, JS, and React.Good communicator,
-team player, and quick learner.
-</em></p> 
-<img align="right" alt "gif" width="400" 
-src="https://camo.githubusercontent.com/4cfc2138e2bc55b361b9d35bf865144dce669bee99e4c4bee2556a9b2bc57465/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a7942764135436e455833536434616f642e676966"/>
-  
-- 🌱 I’m currently learning **Full Stack Develpment**
+# 💫 About Me:
+Hey there, I'm Aditya👋<br>Passionate Stack web developer embracing a growth mindset ✨. Constantly seeking new challenges and opportunities to expand my skills🎩.<br><br>🔭 I’m currently Studying Full-stack Web Development.<br><br>🌱 I’m currently learning React.<br><br>💬 Ask me about HTML, CSS, JavaScript, React, and Redux.<br><br>📫 How to reach me at257645@gmail.com
 
-- 💬 Ask me about **React,Node.js,Express.js,MongoDb,HTML,CSS,JS**
 
-- 📫 How to reach me **shriya.shriya16@gmail.com**
-  
-<h4>👨‍💻To know more about my work, please refer my <a href="https://adi055.github.io/">Portfolio<a/></h4>
- <hr/>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shriya-pandey-b41b5a213" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/93/587/png-transparent-linkedin-logo-linkedin-logo-computer-icons-business-symbol-linkedin-icon-miscellaneous-blue-angle-thumbnail.png" alt="shriya-pandey-b41b5a213" height="20" width="20" />shriya-pandey</a>
-</p>
-<hr/>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=1x&id=123603&format=png" alt="react" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=1x&id=kg46nzoJrmTR&format=png" alt="express" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/195px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=8rKdRqZFLurS&format=png" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=hsPbhkOH4FMe&format=png" alt="nodejs" width="40" height="40"/> </a></p>
-<hr/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pshriya01&show_icons=true&locale=en&layout=compact" alt="pshriya01" /></p>
 
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=pshriya01&"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pshriya01&" alt="rbhomale17 github stats" /></a>
-<hr/>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pshriya01" alt="pshriya01" /></a> </p>
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://fb.com/https://www.facebook.com/tiwariaditya.55/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/https://www.instagram.com/adityatiwari_41/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/https://www.linkedin.com/in/aditya-tiwari55/) 
+
+<h4>💼 My Portfolio: <a href="https://adi055.github.io">Aditya-Portfolio</a></h4>
+
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Adi055&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Adi055&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adi055&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Adi055&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Adi055&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
