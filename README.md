@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there, I'm Aditya👋<br>Passionate Stack web developer embracing a growth mindset ✨. Constantly seeking new challenges and opportunities to expand my skills🎩.<br><br>🔭 I’m currently Studying Full-stack Web Development.<br><br>🌱 I’m currently learning React.<br><br>💬 Ask me about HTML, CSS, JavaScript, React, and Redux.<br><br>📫 How to reach me at257645@gmail.com
+Hey there, I'm Aditya👋<br>Passionate Stack web developer embracing a growth mindset ✨. Constantly seeking new challenges and opportunities to expand my skills🎩.<br><br>🔭 I’m Full-stack Web Developer.<br><br>💬 Ask me about HTML, CSS, JavaScript, React, and Redux.<br><br>📫 How to reach me at257645@gmail.com
 
 
 
